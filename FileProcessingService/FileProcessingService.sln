@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35506.116 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessingService", "FileProcessingService\FileProcessingService.csproj", "{4DE3A246-27DC-4B78-B67A-D53AEEFEF43F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automated Report GenerationWorkerService", "..\Automated Report GenerationWorkerService\Automated Report GenerationWorkerService.csproj", "{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDrivenOrderProcessor", "..\EventDrivenOrderProcessor\EventDrivenOrderProcessor.csproj", "{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4DE3A246-27DC-4B78-B67A-D53AEEFEF43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DE3A246-27DC-4B78-B67A-D53AEEFEF43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DE3A246-27DC-4B78-B67A-D53AEEFEF43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

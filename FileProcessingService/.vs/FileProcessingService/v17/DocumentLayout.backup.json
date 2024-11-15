@@ -1,12 +1,148 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\FileProcessingService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}|..\\EventDrivenOrderProcessor\\EventDrivenOrderProcessor.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\eventdrivenorderprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}|..\\EventDrivenOrderProcessor\\EventDrivenOrderProcessor.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\eventdrivenorderprocessor\\orderprocessorservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}|..\\EventDrivenOrderProcessor\\EventDrivenOrderProcessor.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\eventdrivenorderprocessor\\messagequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE0B6F6-15E8-49FC-959A-7A4B7B4D153C}|..\\EventDrivenOrderProcessor\\EventDrivenOrderProcessor.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\eventdrivenorderprocessor\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}|..\\Automated Report GenerationWorkerService\\Automated Report GenerationWorkerService.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\automated report generationworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}|..\\Automated Report GenerationWorkerService\\Automated Report GenerationWorkerService.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\automated report generationworkerservice\\automatedreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}|..\\Automated Report GenerationWorkerService\\Automated Report GenerationWorkerService.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\automated report generationworkerservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D04D77-85EB-4AA0-B628-4FF4AA67FE7B}|..\\Automated Report GenerationWorkerService\\Automated Report GenerationWorkerService.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\backgroundservicesdotnet\\automated report generationworkerservice\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "..\\EventDrivenOrderProcessor\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\DatabaseService.cs",
+              "RelativeToolTip": "..\\EventDrivenOrderProcessor\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:08:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\MessageQueueService.cs",
+              "RelativeDocumentMoniker": "..\\EventDrivenOrderProcessor\\MessageQueueService.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\MessageQueueService.cs",
+              "RelativeToolTip": "..\\EventDrivenOrderProcessor\\MessageQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:08:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EventDrivenOrderProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\Program.cs",
+              "RelativeToolTip": "..\\EventDrivenOrderProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:06:53.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessorService .cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\OrderProcessorService .cs",
+              "RelativeDocumentMoniker": "..\\EventDrivenOrderProcessor\\OrderProcessorService .cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\EventDrivenOrderProcessor\\OrderProcessorService .cs",
+              "RelativeToolTip": "..\\EventDrivenOrderProcessor\\OrderProcessorService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:06:52.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\FileService.cs",
+              "RelativeDocumentMoniker": "..\\Automated Report GenerationWorkerService\\FileService.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\FileService.cs",
+              "RelativeToolTip": "..\\Automated Report GenerationWorkerService\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:57:45.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "..\\Automated Report GenerationWorkerService\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\DatabaseService.cs",
+              "RelativeToolTip": "..\\Automated Report GenerationWorkerService\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:57:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Automated Report GenerationWorkerService\\Program.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\Program.cs",
+              "RelativeToolTip": "..\\Automated Report GenerationWorkerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:56:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutomatedReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\AutomatedReportGenerator.cs",
+              "RelativeDocumentMoniker": "..\\Automated Report GenerationWorkerService\\AutomatedReportGenerator.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\BackgroundServicesDotNet\\Automated Report GenerationWorkerService\\AutomatedReportGenerator.cs",
+              "RelativeToolTip": "..\\Automated Report GenerationWorkerService\\AutomatedReportGenerator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:56:28.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
